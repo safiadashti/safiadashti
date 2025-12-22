@@ -6,7 +6,7 @@
 
 <!-- <p><img align="center" src="https://c.cicube.io/workflowhubs%2F2024-05-01-Platane-snk%2Fsnk-2.svg" /></p> -->
 
-<!-- <a href="https://linkedin.com/in/safia dashti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh hafsa nadeem" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/safia dashti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safia dashti" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -22,11 +22,11 @@
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
 </div> -->
 
-<h1 align="center">Hi 👋, I'm Safia Shaukat Ali</h1>
+<h1 align="center">Hi 👋, I'm Safia Dashti</h1>
 <h3 align="center">A passionate frontend developer from Pakistan 🇵🇰</h3>
 <img align="right" width="400px" src="./output-onlinegiftools.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiadashti&label=Profile%20views&color=0e75b6&style=flat" alt="safiadashti" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiadashti" alt="safiadashti" /></a> </p>
+<p align="left"> <a href="https://dev.to/ryoma/add-dynamically-generated-github-trophy-on-your-readme-i8i"><img src="https://dev.to/ryoma/add-dynamically-generated-github-trophy-on-your-readme-i8iusername=safiadashti" alt="safiadashti" /></a> </p>
 
 
 
@@ -55,5 +55,7 @@
 <div align='center'>
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
+<img src="https://github.com/anuraghazra/github-readme-stats/pulls"/>
+
 </div>
 
