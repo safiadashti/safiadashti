@@ -26,9 +26,11 @@
 <h3 align="center">A passionate frontend developer from Pakistan 🇵🇰</h3>
 <img align="right" width="400px" src="./output-onlinegiftools.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiadashti&label=Profile%20views&color=0e75b6&style=flat" alt="safiadashti" /> </p>
-<p align="left"> <a href="https://dev.to/ryoma/add-dynamically-generated-github-trophy-on-your-readme-i8i"><img src="https://dev.to/ryoma/add-dynamically-generated-github-trophy-on-your-readme-i8iusername=safiadashti" alt="safiadashti" /></a> </p>
 
 
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/6661165/93725426-2c289e80-fbea-11ea-96a4-f6490ccf2126.png" height="150" alt="trophy graph"  />
+</div>
 
 
 
